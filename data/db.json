@@ -2,20 +2,13 @@
   "clients": [
     {
       "id": 1,
-      "firstName": "sefiani",
+      "firstName": "sefiani3",
       "lastName": "youssef",
       "email": "sefianiy10@gmail.com",
       "date": "2000-06-12"
     },
     {
       "id": 2,
-      "firstName": "sefianiss",
-      "lastName": "youssef2",
-      "email": "sefianiy10@gmail.com",
-      "date": "2000-06-12"
-    },
-    {
-      "id": 3,
       "firstName": "user0",
       "lastName": "last",
       "email": "user1@gmail.com",
@@ -26,7 +19,7 @@
       "lastName": "last",
       "email": "user1@gmail.com",
       "date": "2023-12-12",
-      "id": 4
+      "id": 3
     }
   ]
 }
